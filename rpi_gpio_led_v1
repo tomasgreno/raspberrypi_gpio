@@ -1,6 +1,6 @@
 #!/usr/bin/env python2.7
 
-# Python script to light up or turn off LED connected do RPi`s GPIO pin 18
+# Python script to light up or turn off LED connected to RPi`s GPIO pin 18
 # At execution of this script, the actual state of LED will be inversed
 #
 # More at http://raspberrypi.tomasgreno.cz/leds-and-buttons.html
