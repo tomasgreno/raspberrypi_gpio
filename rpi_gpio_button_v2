@@ -1,6 +1,6 @@
 #!/usr/bin/env python2.7
 
-# Python script to detect button press of a button connected do RPi`s GPIO pin 17
+# Python script to detect button press of a button connected to RPi`s GPIO pin 17
 # At each button press, script will print "Button press detected!"
 #
 # More at http://raspberrypi.tomasgreno.cz/leds-and-buttons.html
